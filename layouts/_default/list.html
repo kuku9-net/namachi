@@ -1,0 +1,72 @@
+{{ partial "header.html" . }}
+
+<div class="body-container lang-{{ .Site.Language.Lang }}" style="display:none">
+  {{ partial "sidebar.html" .}}
+
+  <div class="body-scrollable">
+    <section class="cover hide">
+      <div class="container">
+        <div class="container-inner">
+          <div class="cover-label">
+            <div class="cover-title">{{ .Site.Title }}</div>
+            <div class="cover-subtitle">{{ .Site.Params.subtitle }}</div>
+          </div>
+
+
+          <div class="index">
+            <div class="index-label">{{ i18n "index" }}</div>
+
+            <ul>
+              {{ $pages := .Pages }}
+              {{ range .Pages.ByParam "chapter" }}
+              {{ if isset .Params "chapter" }}
+              <li>
+                <a href="#chapter={{ .Params.chapter }}">
+                  {{ if gt .Params.chapter 0 }}
+                  <div class="chapter-label">
+                  {{ i18n "chapter_pre" }}
+                  {{ .Params.chapter }}
+                  {{ i18n "chapter_suf" }}
+                  </div>
+                  {{ end }}
+                  <div class="chapter-title">
+                    {{ .Title | markdownify }}
+                  </div>
+                </a>
+              </li>
+              {{ end }}
+              {{ end }}
+            </ul>
+          </div>
+
+          <div class="btn-next">
+            <a href="#chapter=1">{{ i18n "read" }}</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    {{ range .Pages.ByParam "chapter" }}
+    <section id="chapter-{{ .Params.chapter }}" class="body hide">
+      <div class="article-meta">
+        <h1>
+          {{ if gt .Params.chapter 0 }}
+          <div class="chapter">
+            {{ i18n "chapter_pre" }}
+            {{ .Params.chapter }}
+            {{ i18n "chapter_suf" }}
+          </div>
+          {{ end }}
+          <div class="title">{{ .Title | markdownify }}</div>
+        </h1>
+      </div>
+      <main>
+        {{ .Content }}
+      </main>
+      {{ partial "nav-next.html" .}}
+    </section>
+    {{ end }}
+  </div>
+</div>
+
+{{ partial "footer.html" . }}

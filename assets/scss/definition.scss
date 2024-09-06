@@ -1,0 +1,16 @@
+.definition {
+    border: 1px solid #888;
+    padding: 0 1em;
+
+    dl {
+        margin: 1em 2em;
+
+        dt {
+            margin: 1em 0 0.25em;
+            font-weight: 800;
+        }
+        dd {
+            font-family: serif;
+        }
+    }
+}

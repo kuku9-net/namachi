@@ -1,0 +1,5 @@
+{{ $js := resources.Get "js/main.js" | js.Build }}
+<script>
+{{ $js.Content | safeJS }}
+</script>
+

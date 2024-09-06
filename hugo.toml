@@ -1,0 +1,43 @@
+baseURL = 'https://mzo.kuku9.net/namachi'
+languageCode = 'ja-JP'
+
+disableKinds = ["taxonomy", "sitemap", "RSS"]
+disableSitemap = true
+
+defaultContentLanguage = "ja"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.ja]
+    languageCode = "ja"
+    contentDir = "content/ja"
+    title = "生知能論"
+    [languages.ja.params]
+        subtitle = "AIはあなたを自由にするか？"
+
+  [languages.en]
+    languageCode = "en"
+    contentDir = "content/en"
+    title = "the Theory of Nama-Intelligence"
+    [languages.en.params]
+        subtitle = "Will A.I. make you free?"
+
+    [languages.en.markup.goldmark.extensions.cjk]
+        enable = false
+    [languages.en.markup.goldmark.renderer]
+      unsafe = true
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    ordered = false
+    startLevel = 1
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.cjk]
+        enable = true
+        eastAsianLineBreaks = true
+        eastAsianLineBreaksStyle = 'css3draft'
+
+    [markup.goldmark.renderer]
+      unsafe = true

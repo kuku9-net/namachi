@@ -1,0 +1,41 @@
+<div class="sidebar-position">
+  <div class="overlay"></div>
+  <nav class="sidebar">
+    <div class="sidebar-content">
+      <div class="title">{{ .Site.Title }}</div>
+      <hr />
+      <ul class="menu">
+        {{ $currentContent := . }}
+        {{ $pagesInCurrentDir := .Pages.ByParam "chapter" }}
+
+        {{ range $pagesInCurrentDir }}
+        <li><a href="#chapter={{ .Params.chapter }}">
+            {{ if gt .Params.chapter 0 }}
+            {{ .Params.chapter }}.
+            {{ end }}
+            {{ .Title }}</a>
+          <div class="menu-on-this-page">
+            {{ .TableOfContents }}
+          </div>
+        </li>
+        {{ end }}
+      </ul>
+      <div class="sidebar-footer">
+        <div class="recommendation-message">
+          ※{{ i18n "recommend-browser-pre" }}
+          <a href="https://www.mozilla.org/en-US/firefox/browsers/">
+            Firefox
+          </a>
+          {{ i18n "recommend-browser-suf" }}
+        </div>
+        <div class="mailto active">
+          mail to: <a href="mailto:namachi@kuku9.net">namachi@kuku9.net</a>
+        </div>
+        <div class="license"><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</div>
+      </div>
+    </div>
+    <div class="toggle-menu">
+      {{ partial "hamburger.html" . }}
+    </div>
+  </nav>
+</div>
