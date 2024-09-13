@@ -18,10 +18,9 @@ defaultContentLanguageInSubdir = true
   [languages.en]
     languageCode = "en"
     contentDir = "content/en"
-    title = "the Theory of Nama-Intelligence"
+    title = "Nama Intelligence"
     [languages.en.params]
-        subtitle = "Will A.I. make you free?"
-
+        subtitle = "Will A.I. set you free?"
     [languages.en.markup.goldmark.extensions.cjk]
         enable = false
     [languages.en.markup.goldmark.renderer]
