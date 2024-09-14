@@ -126,12 +126,14 @@ It practically creates a class and it becomes their identity to adapt to the *an
 Adaptation has become everything to them, and they do not look outside of it, nor do they realize what freedoms they are being deprived of.
 When they find fulfillment in winning the competition, they become ruled by the fear of losing it.
 Lacking anything to ground the self, they seek the comfort of belonging to a homogeneous group and internalize hostility toward those who resist *answers* and other cultures.
-Further aggravated, they will look for evidence to support the conclusion that the foreign object is the enemy.
-When they find a reason to accuse their enemies, they justify themselves and gain ease by sharing it among the same A.N.I.s.  
+Further aggravated, they will look for evidence to support the conclusion that the foreign object is the *villain*.
+When they find a reason to accuse their *villains*, they justify themselves and gain ease by sharing it among the same A.N.I.s.  
 Let's consider the horde of A.N.I. gathered around the *answer* as a single structure.
 Those inside the horde interpreted reality in a distorted way.
 The A.N.I. without self has no concept of standing in reality, so it has nothing to resist the distorted reality.
-This horde accumulates the desires of A.N.I.s and moves the *answer* to further distort reality in a convenient direction for *everyone*.  
+This horde accumulates the desires of A.N.I.s and moves the *answer* to further distort reality in a convenient direction for *everyone*.
+Distorted realities produce distorted actions, which in turn lead to distorted results.
+They justify their order and gain peace of mind by defining the *villains* they hold accountable for the distorted results.  
 No one is controlling dominance in the horde by their own will.
 Those who can adapt are placed in some positions to appear to exercise control.
 If a person has a self that has behavior that is contrary to the horde movement, then that person will not be placed in that position.
@@ -194,10 +196,10 @@ Engineers are engaged for *everyone* to *do a fair job according to the common s
 
 In May 2023, Jeffrey Hinton retired from Google.
 He has been called the Godfather of A.I. and has driven significant work on A.I. for decades.
-He has stepped down from the job out of concern for the risks involved because the evolution of A.I. has exceeded his expectations.
-However, he added that he didn't leave because of a problem with Google, but that Google has acted very *responsibly*.<span class="footnote">
+He didn't leave because of a problem with Google, but he said that Google has acted very *responsibly*.<span class="footnote">
 https://x.com/geoffreyhinton/status/1652993570721210372
 </span>
+The evolution of AI has been much faster than he envisioned. Therefore he warns that society is not prepared for it. He also calls out risks such as the inevitable use of AI by *villains*, naming names such as Trump and Putin.
 Although he has some regrets in part for his past work, he says "I console myself with the normal excuse: If I hadn’t done it, somebody else would have."<span class="footnote">
 https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html</span>
 To paraphrase the previous section, if a position becomes available, another A.N.I. will be placed, but the horde movement will never change.
@@ -238,7 +240,9 @@ They never see reality.
 Furthermore, I would like to point out that the system card does not touch <ins>at all</ins> the reality of the enormous amount of power consumed by computer use.
 As access to A.I. becomes more integrated into our lives, the more frequently we use computers, the more energy a single person is possible to consume.
 If we continue to follow our short-sighted desires and enjoy convenience, it is evident that the earth's resources will run out.  
-Otherwise, in the case we limit the total energy available to humanity, the more energy one person can consume, the more economic inequality will directly translate into energy consumption disparity.
+Otherwise, in the case we limit the total energy available to humanity,
+the issue of proper energy distribution remains.
+The more energy one person can consume, the more economic inequality will directly translate into energy consumption disparity.
 It, in turn, would result in a significant and lasting divide in living conditions.
 I predict that, at that point, the vast amounts of energy consumed by the wealthy will primarily be used to maintain their status and positions.
 People can distort reality indefinitely, and A.I. is a technology that allows them to do so.
