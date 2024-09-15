@@ -241,6 +241,7 @@ A person who just vaguely consumes apples and an apple farmer have different ric
 Furthermore, for the apple farmer, there is an infinite variety of color richness depending on the level of proficiency.  
 I believe that human beings cannot acquire concepts that leave reality behind, and that the imagination of a single human being is far poorer than reality.
 </span> which means that, on the contrary, “not being passively open” means "not being able to accept reality."
+It includes sticking to vested concepts and pretending to understand what one doesn't understand.
 You cannot recognize a reality that you do not accept because you do not have the concept to interpret it.
 So you cannot expand the possibilities with the intention of “passively opening” them.
 As a result of being “actively open,” you are “passively open.”
