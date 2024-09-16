@@ -238,6 +238,7 @@ They might leave the economic issues to *everyone* and do their own *responsible
 They never see reality.
 
 Furthermore, I would like to point out that the system card does not touch <ins>at all</ins> the reality of the enormous amount of power consumed by computer use.
+The huge amount of electricity for AI training and inference is <ins>now being criticized in reality</ins>.
 As access to A.I. becomes more integrated into our lives, the more frequently we use computers, the more energy a single person is possible to consume.
 If we continue to follow our short-sighted desires and enjoy convenience, it is evident that the earth's resources will run out.  
 Otherwise, in the case we limit the total energy available to humanity,
