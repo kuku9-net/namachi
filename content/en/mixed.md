@@ -258,7 +258,7 @@ First, the program is a threat because it does not always work as intended. Or i
 The primary cause of the problem is social networking and/or online advertising. Increased exposure to fake news and the ease with which self-displaced people can connect has made the problem more pronounced. In other words, it is the result of “recommendations based on user attributes meeting people's needs."
 It is fundamental to the current platform's services, and is something they are trying to push even further with A.I.
 The A.I. is expected to reduce the cost of fabrication and allow it to spread automatically and on a large scale, and to make targeting more precise, but the security card does not point out any such aspects.
-Such aspects are <ins>naturally</ins> out of their sight.
+Real problems are <ins>naturally</ins> out of their sight because platformers can follow the horde of A.N.I. by pretending not to see the reality.
 </span>. 
 In short, the risk of disrupting <ins>their order</ins>.
   
