@@ -159,7 +159,8 @@ It is not only pointless but rather harmful.
 It will amplify your aggression and lead to their A.N.I.ing if you have peers who also share that aggression.
 They are merely structures, placed in positions within a structure.
 If that position becomes available, another A.N.I. will be placed.
-The structure of the horde of A.N.I. and the progression of A.N.I.ing should be considered a problem.
+<ins>"evil" is the structure of the horde of A.N.I. and the progression of A.N.I.ing</ins>.
+The solution is made by recognizing the structure and fostering a culture that will eliminate it.
 
 ## the horde movement
 Imagine a society where general-purpose labor robots are widespread. If you provide a robot with the knowledge for a specific task, it will be able to perform it.
