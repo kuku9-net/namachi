@@ -265,7 +265,8 @@ In short, the risk of disrupting <ins>their order</ins>.
 OpenAI recognized the risk of A.I. from its beginning.
 Their idea was that they would lead the development of A.I. and that they would use their power *fairly*.
 OpenAI's mission is "to ensure that artificial general intelligence benefits all of humanity."
-The implementation of A.I. is being promoted by those who can tolerate the deception that limited, self-centered *everyone* can be referred to as all of humanity.  
+The implementation of A.I. is being promoted by those who can tolerate the deception that limited, self-centered *everyone* can be referred to as all of humanity.
+If they have the self which cannot withstand that deception, they will not be able to take that position.  
 What we have found with the 2023 board replacement is that even their flimsy deceptions are driven out of the *answers* of the horde of A.N.I.
 Although we have the occasion to get a glimpse of the reality by some of these selves, we do not know what is actually happening inside OpenAI and other companies.
 However, it is not difficult to imagine the direction in which the horde is heading.
