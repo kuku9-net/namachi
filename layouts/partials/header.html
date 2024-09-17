@@ -3,6 +3,12 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:url" content="{{ .Site.BaseURL }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="{{ .Site.Title }} - {{ .Site.Params.subtitle }}">
+    <meta property="og:description" content="{{ .Site.Params.description }}">
+    <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.cardFilename }}">
+    <meta property="og:image:url" content="{{ .Site.BaseURL }}{{ .Site.Params.cardFilename }}">
     <title>{{ .Site.Title }}</title>
     {{ partial "head_css.html" . }}
   </head>
