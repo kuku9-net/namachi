@@ -222,7 +222,8 @@ Also, sometimes a song that didn't feel good at the time can be appreciated when
 That's <ins>new music for you</ins>.  
 In other words, it does not matter how much music could be made that differs as waveforms.
 It is your matter of how much musicality you can find in it.
-The ability to listen more deeply to music means that there has been a new conceptualization, and freedom existed there.
+The ability to listen more deeply to music means that there has been a new conceptualization, and freedom existed there.  
+As a generalization, freedom enables the pursuit of beauty.
 
 Recall that freedom is "being open to the possibility of acquiring new concepts".
 There are two possible directions for the opening of this possibility: “active” and “passive”.  
@@ -254,10 +255,11 @@ The more powerful a culture grows, the more explicit the *answers* it prescribes
 Such *answers* are certain, secure, safe, and contain no unknowns.
 Moreover, overly explicit *answers* create anonymous authoritativeness and economic rationality, suppress anything that deviates from them.
 
+This idea of beauty and freedom is consistent with the Meiji era anarchist Ōsugi Sakae about 100 years ago.
+
 > Today, when the fact of conquest has reached its pinnacle, tonality is no longer beauty. Beauty is only in disorder.
 <cite>from "Enrichment of life" by Ōsugi Sakae</cite>
 
-This is a famous quote by Japanese anarchist Ōsugi Sakae about 100 years ago.
 This quote is often presented with only the second sentence taken out.
 Interpreted with the preceding context, he argues that “beauty is only in disorder” because society is so biased toward the orderly side.  
 Adaptation to culture is what makes culture more orderly, then freedom is what disturbs it.
