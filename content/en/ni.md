@@ -190,6 +190,7 @@ It is impossible to believe that one can suddenly acquire deep concepts without 
 Just as it is impossible to understand the meaning of a word when it is spoken in an unknown language, it is impossible to make deep interpretations without acquiring concepts that correspond to the vocabulary and grammar specific to that culture.  
 This discussion is not limited to music.
 The same can be said of all areas, but how far can we extend it?
+Even practices that are common sense and fair in one culture may be tough for a different culture to accept.
 Cultural influences are also strongly evident in taste and smell.
 Some scientists argue that concepts about emotions such as fear, surprise, anger, sadness, and joy were also culturally created.<span class="footnote">
 "How Emotions are Made: The Secret Life of the Brain" by Lisa Feldman Barrett.
