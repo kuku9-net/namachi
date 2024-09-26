@@ -79,7 +79,7 @@ How much of actual human thought can be described as “adaptation”?
 Psychologist Daniel Kahneman has conducted many studies that show a lack of rationality in people's behavior.
 His research reveals that people often rely on their intuition and do not make rational decisions.
 He describes how people think, which is that people have an answer before they think, and are satisfied when they find a reason that fits that answer.
-Hence, he even claim that arguments will not change their minds and are meaningless.<span class="footnote">
+Hence, he even claims that arguments will not change their minds and are meaningless.<span class="footnote">
 https://www.westmont.edu/kahneman-examines-mind-westmont-luncheon
 </span>
 He probably doesn't think all arguments are meaningless either, but I think the gap in people's perceptions on this point is so huge that he is arguing so strongly for it.
