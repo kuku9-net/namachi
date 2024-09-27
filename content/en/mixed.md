@@ -299,5 +299,8 @@ Please feel free to contact me at the following address if you have any comments
 
 {{% definition %}}
 email: <a href="mailto:namachi@kuku9.net">namachi@kuku9.net</a>  
-mastodon: <a href="https://kolektiva.social/@mzo">@mzo@kolektiva.social </a>
+mastodon: <a href="https://kolektiva.social/@mzo">@mzo@kolektiva.social </a>  
+
+Or, you can fill out an anonymous survey using <a href="https://lib.kuku9.net/survey/index.php/271534?lang=en"><ins>this form</ins></a>.
+
 {{% /definition %}}

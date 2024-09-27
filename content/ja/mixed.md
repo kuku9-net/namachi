@@ -430,5 +430,7 @@ OpenAIやその他企業の内側で何が起きているのかは分かりま�
 
 {{% definition %}}
 email: <a href="mailto:namachi@kuku9.net">namachi@kuku9.net</a>  
-mastodon: <a href="https://kolektiva.social/@mzo">@mzo@kolektiva.social </a>
+mastodon: <a href="https://kolektiva.social/@mzo">@mzo@kolektiva.social </a>  
+
+もしくは<a href="https://lib.kuku9.net/survey/index.php/271534?lang=ja"><ins>こちらの回答フォーム</ins></a>から匿名アンケートにご協力いただけますと幸いです。
 {{% /definition %}}
