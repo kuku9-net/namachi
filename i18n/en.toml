@@ -7,3 +7,5 @@ read = "Read it"
 
 recommend-browser-pre = "This site is best viewed with "
 recommend-browser-suf = "."
+
+form = "Feedback Form"

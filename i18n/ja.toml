@@ -7,3 +7,5 @@ read = "読む"
 
 recommend-browser-pre = "このサイトは"
 recommend-browser-suf = "での閲覧を推奨します"
+
+form = "感想フォーム"
