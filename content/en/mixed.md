@@ -160,6 +160,8 @@ It will amplify your aggression and lead to their A.N.I.ing if you have peers wh
 They are merely structures, placed in positions within a structure.
 If that position becomes available, another A.N.I. will be placed.
 <ins>"evil" is the structure of the horde of A.N.I. and the progression of A.N.I.ing</ins>.
+The distortions behind people's *common sense and fair activities for everyone* in A.N.I.ed cultures have been accumulated.
+Then the distortions move the horde of A.N.I.
 The solution is made by recognizing the structure and fostering a culture that will eliminate it.
 
 ## the horde movement
