@@ -315,7 +315,7 @@ https://www.nytimes.com/2023/11/21/technology/openai-altman-board-fight.html</sp
 to-the-bottom dynamics that OpenAI and others have stated that they wish to avoid. OpenAI has also drawn criticism for many other safety and ethics issues related to the launches of ChatGPT and GPT-4, including regarding copyright issues, labor conditions for data annotators, and the susceptibility of their products to “jailbreaks” that allow users to bypass safety controls.  
 システムカード自体は、GPT-4のリスク評価の理解に関心のある研究者の間では好評であったが、安全性に対するOpenAIのコミットメントを広く示すものとしては、あまり成功しなかったようである。この意図しない結果の理由は、同社がシステムカードの重要性を覆すような他の行動をとったからである。最も顕著なのは、ChatGPTのリリースを4ヶ月早めたことである。(略) この結果は、OpenAIや他社が避けたいと表明している「底辺への競争」に酷似しているように思われる。またOpenAIはChatGPTとGPT-4のリリースに関して、著作権問題、アノテーター<span class="footnote">学習データを作る人。第一章参照</span>の労働条件、ユーザーが安全制御を回避することを可能にする「ジェイルブレイク」の影響を受けやすいことなど、その他多くの安全性と倫理に関する問題で批判を浴びている。
 
-*研究者の間で好評*の「システムカード」とはAIのセキュリティについての12項目をOpenAIがまとめた文書で、GPT-4のテクニカルレポートと一緒に提出されました<span class="footnote">
+*研究者の間で好評*の「システムカード」とはAIのセキュリティについての12項目をOpenAIがまとめた文書です<span class="footnote">
 2024.3.4 GPT-4 Technical Report Appendix H GPT-4 System Card
 https://arxiv.org/pdf/2303.08774</span>。
 また「底辺への競争」とは、競争のプレッシャーから

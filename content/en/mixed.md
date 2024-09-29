@@ -219,7 +219,7 @@ The report accuses OpenAI of a disregard for risk.
 > While the system card itself has been well received among researchers interested in understanding GPT-4’s risk profile, it appears to have been less successful as a broader signal of OpenAI’s commitment to safety. The reason for this unintended outcome is that the company took other actions that overshadowed the import of the system card: most notably, the blockbuster release of ChatGPT four months earlier. (...) This result seems strikingly similar to the race-
 to-the-bottom dynamics that OpenAI and others have stated that they wish to avoid. OpenAI has also drawn criticism for many other safety and ethics issues related to the launches of ChatGPT and GPT-4, including regarding copyright issues, labor conditions for data annotators, and the susceptibility of their products to “jailbreaks” that allow users to bypass safety controls.
 
-"The System Card”, *which has been well received among researchers*, is a document on A.I. security, submitted with the GPT-4 Technical Report by OpenAI.<span class="footnote">
+"The System Card”, *which has been well received among researchers*, is a document on A.I. security by OpenAI.<span class="footnote">
 2024.3.4 GPT-4 Technical Report Appendix H GPT-4 System Card
 https://arxiv.org/pdf/2303.08774</span>
 The term “race to the bottom” also refers to the overall trend toward the bottom, as competitive pressures lead to a race that disregards safety and ethics rather than competition for product and service quality.
