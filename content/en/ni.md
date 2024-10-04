@@ -7,7 +7,7 @@ The existence of ChatGPT proves that it is possible to appear to have a certain 
 This fact, in turn, leads to the question of how different humans are from ChatGPT.
 I think a better outlook would be to take “humans and A.I. are roughly the same” as a starting point and then consider what the differences are.
 
-To organize our understanding of intelligence, this chapter defines human intelligence in contrast to artificial intelligence by the simplistic scheme of **Nama Intelligence(N.I.)**.
+To organize our understanding of intelligence, this chapter defines **Nama Intelligence(N.I.)** as the simplistic scheme of human intelligence in contrast to artificial intelligence.
 While the policy in the previous chapters was to avoid technical terms, from this chapter onward, we will explain them while defining <ins>original</ins> terms.
 Please read the definitions of each term as you understand them.
 
