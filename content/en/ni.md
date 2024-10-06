@@ -95,7 +95,7 @@ John T. Jost studies <ins>people's desires to justify the current social system<
 According to him, we are so averse to instability and disorder that we are more quick to defend the organization and structure of the society on which we depend than we realize.
 He even posits that “those with the strongest desire to justify the current social system and power structure are the most disadvantaged.”<span class="footnote">
 John T. Jost et al. (2003) Social inequality and the reduction of ideological dissonance on behalf of the system: Evidence of enhanced system justification among the disadvantaged
-</span>。
+</span>
 This is an example of believing that one's environment determines what one should do and the basis for believing it.
 
 To sum up, a fundamental part of people's behavior is that their answers precede their thoughts, and those answers are culturally prescribed.
