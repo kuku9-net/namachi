@@ -297,8 +297,10 @@ The first step is to resist A.N.I.ing, which means to act freely, to step away f
 Then, communicate the acquired concepts to others.
 Also receive concepts from others.  
 As mentioned in the previous chapter, you form yourself from a collection of concepts from others.
+In other words, the structure of the social network fundamentally determines the individual formation.
 Your ability to self-form depends on the freedom of others.
-In this sense, it can be said that “care for others is self-care."
+In this sense, it can be said that “care for others is self-care" and
+"resisting social structures homogenized by technology."
 
 I would be happy to have you discuss the story of this book with your neighbors as part of your care.
 Please do not just spread the URL on social networking sites, etc., but make sure to have a face-to-face dialogue with the person you are talking to.
