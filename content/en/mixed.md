@@ -148,7 +148,14 @@ Furthermore, there is a danger that the A.I. will represent *everyone*, giving t
 People believe the conclusion, not the reason.
 Will *everyone* be convinced if someone who faces reality insist that they are more right than *everyone*?
 As explained in Chapter 1, if the training data is biased, the A.I. will reflect that bias.
-In particular, it is important to note that post-learning can adjust artificially to favor *everyone*.
+In particular, it is important to note that post-learning can adjust artificially to favor *everyone*.  
+Halcination is the generation of factually incorrect information by A.I. and is an important current research issue.
+The decision as to whether an A.I. response is halcination is made by human.
+Since the current A.I. is still learning at the “anyone can do it” level, it is easy to determine what is not correct with objectivity.
+However, it is not clear what is right when more advanced thinking is required.
+A.I. could be *objectively correct* for *everyone* if A.I. will provide *the answer* that *everyone* wants.
+The more *everyone*'s reality is distorted, the more the demand for justification increases, and A.I. becomes the tool to meet it.
+As people delegate advanced thinking to A.I., those with a strong sense of self will be viewed as wrong. Consequently, *everyone*'s *answers* will gravitate to the people, and A.N.I.ing will progress.
 
 Another point is that they are acting *fairly and responsibly* from their perspective because they are just looking at a distorted reality.
 They have the *patience* not to exceed the bounds allowed by their *norms*, and they hate and fear *villain out of their norms*.
@@ -266,7 +273,7 @@ In short, the risk of disrupting <ins>their order</ins>.
   
 OpenAI recognized the risk of A.I. from its beginning.
 Their idea was that they would lead the development of A.I. and that they would use their power *fairly*.
-OpenAI's mission is "to ensure that artificial general intelligence benefits all of humanity."
+OpenAI says its mission is "to ensure that artificial general intelligence benefits all of humanity."
 The implementation of A.I. is being promoted by those who can tolerate the deception that limited, self-centered *everyone* can be referred to as all of humanity.
 If they have the self which cannot withstand that deception, they will not be able to take that position.  
 What we have found with the 2023 board replacement is that even their flimsy deceptions are driven out of the *answers* of the horde of A.N.I.
