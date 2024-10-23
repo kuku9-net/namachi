@@ -122,7 +122,12 @@ Predicting sentences seems impossible, but computers are able to push through th
 For this reason, training data for generative A.I. can now be prepared simply by scouring the Internet for vast amounts of data.  
 To achieve such learning, a large-scale sized network structure is required.
 The breakthrough came with an innovative network structure that dynamically adjusts the parameters of the model based on contextual knowledge.
-This dynamic adjustment allows the A.I. performance to increase as much as possible the larger the model is made.
+This dynamic adjustment allows the A.I. performance to increase as much as possible the larger the model is made.<span class="footnote">
+It is unclear whether, as of 2024, it is really enough to simply collect a data set.
+The generation of a model is the result of various trial and error processes, which include a careful screening of the data set.
+Know-how in this area is accumulated internally within companies, and the actual situation is not publicly known.
+However, as a major trend, it is clear that the problem of the quantity of data sets is becoming relatively smaller.
+</span>
 
 Two of the three factors for A.I. performance have been resolved, and now it is a matter of how much computer resources to devote to it.
 And indeed, ChatGPT is the result of the enormous resources that have been poured into the project.  
